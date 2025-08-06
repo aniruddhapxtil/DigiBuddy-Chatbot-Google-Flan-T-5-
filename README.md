@@ -29,7 +29,3 @@ DigiBuddy is an AI-powered chatbot built using Hugging Face's `google/flan-t5-ba
 ├── .env # Hugging Face API key (not to be committed)
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
